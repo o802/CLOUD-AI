@@ -63,7 +63,7 @@ Buy your customized WhatsApp bot at an affordable price. Packed with premium fea
 Secure your bot session below:
 
 <p align="center">
-  <a href="https://cloud-ai-pair.onrender.com/" target="_blank">
+  <a href="https://cloud-tech-pair-ofz7.onrender.com" target="_blank">
     <img alt="Pair Code" src="https://img.shields.io/badge/SESSION ID-⚙️ GENERATE NOW-FFB300?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black"/>
   </a>
 </p>
